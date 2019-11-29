@@ -1,0 +1,8 @@
+.navbar-brand {
+    padding: 17px 0;
+}
+
+.navbar {
+    border-radius: 0 0 8px 8px;
+    box-shadow:0 0 15px rgba(4, 18, 7, .5);
+}
